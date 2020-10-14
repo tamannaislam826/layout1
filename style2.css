@@ -1,0 +1,60 @@
+header{
+background-color: paleturquoise;
+height: 100px;
+
+}
+nav{
+background-color: darkblue;
+height: 100px;
+}
+.content{
+ overflow: hidden;
+}
+
+
+
+.left{
+height: 600px;
+background-color: darkred;
+float: left;
+width: 50%;
+
+}
+.section{
+    height: 50%;  
+    background-color: hotpink;
+}
+.section2{
+    height: 50%;  
+    background-color:aqua;
+
+}
+.right{
+ height: 600px;  
+ background-color: black; 
+ float: right;
+ width: 50%;
+}
+footer{
+
+   ;
+    overflow: hidden;
+}
+.l{
+    background-color: khaki;
+    width: 34%;
+    float: left;
+    height: 100px
+}
+.mi{
+    width: 34%;
+    float: left;
+    background-color: lightcoral;
+    height: 100px
+}
+.ri{
+    width: 32%;
+    float: right;
+    background-color: lime;
+    height: 100px;
+}
